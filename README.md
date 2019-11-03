@@ -1,5 +1,5 @@
 # Serial Generator
-[![N|Solid](https://www.bilgeadam.com/akademi/SiteAssets/BilgeAdam/Images/LogoAkademi.png)](https://www.bilgeadam.com/akademi/SiteAssets/BilgeAdam/Images/LogoAkademi.png) 
+[![N|Solid](https://www.bilgeadam.com/akademi/SiteAssets/BilgeAdam/Images/LogoAkademi.png)](https://www.bilgeadam.com/akademi/) 
 
 * Kullanıcı Serial butonuna tıkladığında, NumericUpdown'lardan girilen değerlere göre serial oluşturulacak.
 * Her bir alan için üretilecek olan, degerler arka tarafta üretilecek olan guid değerlerden alınarak üretilecektir
